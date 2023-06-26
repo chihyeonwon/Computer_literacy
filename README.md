@@ -1,4 +1,4 @@
-# Computer_literacy
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c06119ce-8085-4e69-b5c1-f9f97e507b30)![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/dfe94591-4d69-43f4-9f85-1ccb1e2d3f84)# Computer_literacy
 컴퓨터활용능력 1급 on 2023 Summer Vacation.
 
 [시험 접수, 결과 확인](https://license.korcham.net/indexmain.jsp)
@@ -39,5 +39,22 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/6ef2a7bc-b39e-41c4-8356-d1c30536e196)    
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4e16dd9d-31e5-4efd-8c1f-595c9ce81c7f)     
 [7강 컴퓨터의 단위와 문자코드](https://www.youtube.com/watch?v=SZMbkaL3a8U&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=7)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/ad710951-6fa7-44dd-b307-43f7f1a4ad65)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c02caba3-927c-44f3-ae03-b9f27ff15d1d)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/24d8bb29-f295-433a-9345-da5ab830dff7)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c7409091-48df-4069-9576-ac202e4fc9ea)     
+[8장 운영체제와 소프트웨어](https://www.youtube.com/watch?v=9ml3is_y7ps&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=8)   
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/1019d374-2357-4be3-a469-de570c570693)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/114e6072-b093-436a-92a3-b02023c2d068)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/0bcbfa1c-c58f-484c-8644-9a29bd1a3e9d)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c2ec6325-a16e-48f2-8799-314d9ce161ea)        
+[9장 운영방식과 세대별 특징](https://www.youtube.com/watch?v=lY-9XOv3UiU&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=9)   
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/eea454b2-e77c-4e32-aee4-8ffd7a85ca83)             
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/d78ca528-1764-4ef8-8ded-b35f8491c946)          
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/f9a38a46-3e01-4e13-90d5-f1e77e614d30)           
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/f836cb8b-3bab-416a-a955-77bc3395eb16)         
+[10장 Windows 특징과 단축](https://www.youtube.com/watch?v=AhoBthm9ilc&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=10)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2c1da1c4-da0e-44b2-b8db-859aa0927067)        
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/3032183e-1e9b-4ece-8935-8e9065fe59bf)   
 
-[8장 운영체제오 소프트웨어](https://www.youtube.com/watch?v=9ml3is_y7ps&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=8)
+[11장 Windows의 설정](https://www.youtube.com/watch?v=N3ZPz3dN2Xk&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=11)
