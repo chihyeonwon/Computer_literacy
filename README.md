@@ -118,4 +118,29 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/a8f7cb5f-42cf-4d13-902d-d2a229588480)         
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/5413e215-97cc-41f7-8ccc-bc9d96367a2f)       
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/45a254a9-d9f3-4c6f-ab08-bc6399702958)       
-[21강 정보통신 보안](https://www.youtube.com/watch?v=sxZdUqcHNX8&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=21)         
+[21강 정보통신 보안](https://www.youtube.com/watch?v=sxZdUqcHNX8&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=21)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/eefcc24d-96d7-4541-b652-5beb1515a556)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/f92f067b-9929-452f-b765-85b1a50a9ca3)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9ed23dec-d52f-42f3-b359-283741c122e5)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c05d7d6a-3b39-43f3-86ab-90a3e5d30a72)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2173e3c4-b73c-4d5a-9135-f3b034be12af)     
+[22강 프로그래밍 언어](https://www.youtube.com/watch?v=sguYU2rE79I&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=23)
+
+## 2과목 스프레드시트
+
+```
+회계 문서를 다루는 프로그램 -> 스프레드시트 (엑셀,구글스프레드시트, 한셀)
+엑셀 자료분석,시각화
+사업,취업
+확실하게 엑셀 배우기
+실기 1급 합격률 10% 3-1 방학때 엑셀끝낸다는 마인드
+```
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/73dc749a-ebbf-4ad5-96e0-96a5555d425c)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/60034a18-a09b-436b-a020-4b379af9cde8)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9ac25985-6037-4742-9bea-8c0a071fddb1)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/0bb1f042-e0cb-410a-b7b7-d49693b22b2e)      
+[1강 화면구성](https://www.youtube.com/watch?v=1m7oxMINqds&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=25)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/abd46a7f-0b77-417a-a602-1e813c97b45e)           
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/05a0910b-09d0-4bb6-b14d-d93f6b942f08)     
+
+[2강 데이터입력과 삭제](https://www.youtube.com/watch?v=2Ur7S2J_TQY&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=26)
