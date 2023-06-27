@@ -1,4 +1,4 @@
- Computer_literacy
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/bef60862-3c69-400c-a3d1-272ee1fda97f) Computer_literacy
 컴퓨터활용능력 1급 on 2023 Summer Vacation.
 
 [시험 접수, 결과 확인](https://license.korcham.net/indexmain.jsp)
@@ -161,4 +161,28 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/6e04c6e8-5485-428d-ae73-21be7bbdbe06)      
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/bec551ed-9c6a-4275-b8c8-e7b743022590)      
 [4강 저장과 홈 기본 메뉴](https://www.youtube.com/watch?v=-p34rntx6Pk&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=28)     
-
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/7a7a1eb0-270f-4b70-af1f-3e03f287840d)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/0c26315b-1ede-4971-ae33-e2bba3002e50)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/660f9f4a-37c5-4d9b-812f-a96b1be8eaf9)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/702241f5-94a5-4e6f-8dae-40294c9569c9)     
+[5_1강 표시형식](https://www.youtube.com/watch?v=jgbiwhR03qo&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=30)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/7cb421f5-6bd0-4942-86c2-6da735511564)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/03484515-e744-45d3-9541-38793e18f101)     
+[5_2강 날짜와 시간 표시형식2](https://www.youtube.com/watch?v=JqeXoE0RTgw&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=30)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4f627b3a-7899-4cc6-ae6d-e82377d98f0d)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/ae1d5852-31db-4675-99da-634b22807b25)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/f4ed2fb0-8906-4830-84fa-2d232bc74f5a)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/12f4b144-ded1-4025-8fd3-e6038f0cd311)
+[6강 데이터 관리](https://www.youtube.com/watch?v=pDkCTExumws&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=31)  
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2f69c376-bdd7-43b1-8eb9-f107cb67ddb5)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/eca802e1-d575-43b8-ba86-1d75eadaead4)   
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/166607c4-2434-453e-922b-a6994f5aecb5)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/501c6ac5-cbea-4f3f-82c6-74272a9a0d1c)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/de089a04-79bd-4bd0-863e-ba332989bb51)      
+[7강 채우기 핸들](https://www.youtube.com/watch?v=O1j5x9ji6As&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=32)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/581d70ba-64eb-4ef4-b3fa-da8381cb43b5)
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/0ad77287-94b5-411b-9ba9-590d185ef2f4)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/39b2c0e0-f760-4ef9-8546-9b4daae0d8b2)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4238b31e-b783-40f9-b26c-eac7b90658e1)        
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2bc4d295-6af1-4f49-98b8-6e31b1351872)    
+[8강 참조](https://www.youtube.com/watch?v=WvEUWCunMcc&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=33)      
