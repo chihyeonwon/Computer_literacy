@@ -1,4 +1,4 @@
-![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/5ab92517-2353-4e21-8d82-7f64bdf8781c)![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/8f2a73fc-e817-48a4-aeb8-8184ad108b35)# Computer_literacy
+ Computer_literacy
 컴퓨터활용능력 1급 on 2023 Summer Vacation.
 
 [시험 접수, 결과 확인](https://license.korcham.net/indexmain.jsp)
