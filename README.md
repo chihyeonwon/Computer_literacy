@@ -250,5 +250,6 @@ Computer_literacy
 [20강 날짜와 시간 함수](https://www.youtube.com/watch?v=ITs8PxRQD8Q&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=45)    
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/73755785-7e52-43b9-8ee3-a1bb1801204d)     
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/61718e78-0a8a-4f48-9219-16cce4e9d9ed)      
-[21강 통계 함수](https://www.youtube.com/watch?v=gS7apn-DHTo&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=46)    
+[21강 통계 함수](https://www.youtube.com/watch?v=gS7apn-DHTo&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=46) 
 
+[22강 수학과 삼각함수](https://www.youtube.com/watch?v=kdNP6dVSUX4&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=47)
