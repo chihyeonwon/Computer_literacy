@@ -1,4 +1,4 @@
-![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/bef60862-3c69-400c-a3d1-272ee1fda97f) Computer_literacy
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/47996f8a-97b8-4acd-803a-a18a99b88353) ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/bef60862-3c69-400c-a3d1-272ee1fda97f) Computer_literacy
 컴퓨터활용능력 1급 on 2023 Summer Vacation.
 
 [시험 접수, 결과 확인](https://license.korcham.net/indexmain.jsp)
@@ -186,3 +186,27 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4238b31e-b783-40f9-b26c-eac7b90658e1)        
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2bc4d295-6af1-4f49-98b8-6e31b1351872)    
 [8강 참조](https://www.youtube.com/watch?v=WvEUWCunMcc&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=33)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/63c31b6d-47a2-469b-8098-683fed907990)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/ae5bdc35-82fd-4c0f-a49c-6e4a095aac3c)   
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/7cc0f7f4-d3bc-4f43-806f-21e20d317137)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/d95c979d-2ef3-4632-b0bd-3aff5e962dad)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/76b0b1e6-472c-4e31-8221-762cd2909234)    
+[9강 필터](https://www.youtube.com/watch?v=nVskkdk0U8A&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=34)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/8fb5a215-3204-4fa5-a189-73eeaaf54d55)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/89069c62-59b4-4ca1-aaf8-444c55cfb989)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/653844d2-2ade-40ce-9c7d-45e058f76e0a)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/a47d65e6-9066-4fae-8cdc-44e8e016b1fa)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/871da4d6-e438-46ed-bde4-9192006498c3)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/3e0c6a67-90fc-4e9d-a5ab-8c750013d052)     
+[10강 조건부 서식과 기타 기능](https://www.youtube.com/watch?v=Oa_dwR2vN6k&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=35)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/6d6861bb-91cc-4f83-b979-f93840d8d1e8)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c3c84af8-532b-4b8c-9c0d-7986f372a854)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/91768086-d949-423f-a867-ac7504272511)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/815a9611-d9ce-4eff-a630-410a8d704e07)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/323bd40a-8fdf-4510-b21d-2da32514a0a4)      
+[11강 가상 분석-분석작업](https://www.youtube.com/watch?v=aOV-fctANdg&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=36)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/02de8ce6-ece1-4aa1-904e-19dbbf416200)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/07eb31f0-7fa5-434b-89dc-29c50f8d66ff)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9207e5d4-54fb-4b13-9356-dff596b97dcc)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/c0da4364-cec4-44fe-88d3-d1734e2148c7)       
+[12강 분석작업](https://www.youtube.com/watch?v=k5eHMqa7gdE&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=37)     
