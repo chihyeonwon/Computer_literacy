@@ -272,5 +272,8 @@ Computer_literacy
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/d6137144-55e7-4aa4-bcaf-9d079adfd61d)    
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4345199c-fe69-4546-a1d9-cde0f353a90c)    
 [26강 논리 함수](https://www.youtube.com/watch?v=IlN32RfJ42g&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=52)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/79451a60-9be0-45c2-89f9-37c9158df472)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/d03ea54d-f3bd-4dd8-b035-c193abb658cf)    
+[27강 1급 함수 정보 함수, 배열](https://www.youtube.com/watch?v=ui280T_yogs&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=55)
 
-[27강 1급 함수 정보 함수]()
+[3과목 데이터베이스는 요약강의로만](https://www.youtube.com/watch?v=_G-vmbVGwXk&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=69)
