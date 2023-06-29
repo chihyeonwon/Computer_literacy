@@ -1,4 +1,4 @@
-Computer_literacy
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4b3f79dc-2e03-44ac-92f3-f14e956716b1)Computer_literacy
 컴퓨터활용능력 1급 on 2023 Summer Vacation.
 
 [시험 접수, 결과 확인](https://license.korcham.net/indexmain.jsp)
@@ -277,3 +277,23 @@ Computer_literacy
 [27강 1급 함수 정보 함수, 배열](https://www.youtube.com/watch?v=ui280T_yogs&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=55)
 
 [3과목 데이터베이스는 요약강의로만](https://www.youtube.com/watch?v=_G-vmbVGwXk&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=69)
+
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/a5cdb6a2-d6bf-459a-83ab-0f7a3c6f66d0)       
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/b6277d5f-35e0-4aea-a566-18897e71855f)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/800b4c01-ac4b-4644-8919-df17f7ab376b)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9a59aedc-f672-4e83-b916-44ff4c7190bc)     
+ ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/3fee1753-709c-4c4f-bab5-604fa42b8fe1)    
+ ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9fdbfde2-3614-4af4-a5a4-ac86e2834cc5)    
+ ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/313b14d3-15c2-4754-a59d-82321b9c5781)      
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/fe4a848c-cefa-4b44-8e62-33559220b88c)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/a0c272d9-63f7-4166-82b0-fd430cf3bcd7)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/98fa0daf-c6c0-4418-9e06-fc3e3ca02a3c)      
+ ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/3af92a79-babf-42c7-a550-36a88ba947fd)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/55e031ab-e65c-4c23-8bd5-2d82c74c1d0e)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/2b2c6ef0-ac77-4a2b-9702-168766627a40)   
+
+```
+필기 공부 끝 
+cbt로 양치기문제풀이
+  
+```
