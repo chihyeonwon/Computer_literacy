@@ -265,5 +265,12 @@ Computer_literacy
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/05615912-19fa-4d88-8d4e-9a6e55dec5a1)    
 [24강 문자열 함수](https://www.youtube.com/watch?v=GaESd3bSRVE&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=49)      
 ![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/494cafe9-6f25-4fd4-ac34-efa9a88990dd)     
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/b3a8ec39-6061-44f5-8cf6-e362e357b1d1)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/3d1f4e09-eb7d-4e2f-908e-d42bf335a931)     
+[25강 찾기와 참조 함수](https://www.youtube.com/watch?v=vCyMUI0JnXI&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=50)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/9dae2c8a-2d7d-42fd-b282-3f389ee36469)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/d6137144-55e7-4aa4-bcaf-9d079adfd61d)    
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/4345199c-fe69-4546-a1d9-cde0f353a90c)    
+[26강 논리 함수](https://www.youtube.com/watch?v=IlN32RfJ42g&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=52)    
 
-[25강 찾기와 참조 함수](https://www.youtube.com/watch?v=vCyMUI0JnXI&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK&index=50)
+[27강 1급 함수 정보 함수]()
