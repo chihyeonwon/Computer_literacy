@@ -11,6 +11,9 @@ Computer_literacy
 ## 공부 - 인터넷 강의로 독학, 기출문제로 정리,마무리 4주
 [균쌤 컴활1급 강의](https://www.youtube.com/watch?v=aXvbO-j8sT0&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK)
 
+## 4주 필기합격
+![image](https://github.com/chihyeonWON/Computer_literacy/assets/58906858/e4fd3793-ffbb-4d74-8149-a0d3fadac9b9)
+
 ## 06.26 공부
 
 [1강_기본개념](https://www.youtube.com/watch?v=aXvbO-j8sT0&list=PL7qs4zo3uSILj4uDOx326k-mpPuPKPOhK)   
